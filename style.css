@@ -1,0 +1,16 @@
+button{
+    width: 170px;
+    height: 50px;
+}
+.recuperar{
+    color: rgb(177, 119, 12);
+    
+}
+.aprovado{
+    color: green;
+    background-color: rgba(13, 199, 13, 0.452);
+}
+.reprovado{
+    color: rgb(143, 5, 5);
+    background-color: rgba(241, 90, 90, 0.473);
+}
